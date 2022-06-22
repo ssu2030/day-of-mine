@@ -12,3 +12,10 @@
 ##### Javascript 효율성 테스트
 - 링크: https://www.notion.so/16-Java-script-Benchmark-445088b1922b4c48abefc62582c1e3f5
 - js 코드중 어느 로직이 더 효율적일지 알아보는 툴을 찾다 발견함 
+
+### 2022.06.22
+##### JavaScript 학습
+- 모던 자바스크립트 DeepDive 학습
+- 링크: https://oil-antique-690.notion.site/04-894fb72d250e4fb7aa560a9b8f5cb8ff
+- 4단원 공부중
+  - 인사평가 시즌이라 바빠서 요새 공부를 못하는데 게
