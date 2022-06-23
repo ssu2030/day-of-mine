@@ -19,3 +19,9 @@
 - 링크: https://oil-antique-690.notion.site/04-894fb72d250e4fb7aa560a9b8f5cb8ff
 - 4단원 공부중
   - 인사평가 시즌이라 바빠서 요새 공부를 못하는데 게
+
+### 2022.06.23
+##### JavaScript 학습
+- 4단원 공부 완료
+- 5단원 제어문 학습 시작
+- https://oil-antique-690.notion.site/05-44e6443b190e496ab1beba712fd55a3e
