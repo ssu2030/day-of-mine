@@ -25,3 +25,7 @@
 - 4단원 공부 완료
 - 5단원 제어문 학습 시작
 - https://oil-antique-690.notion.site/05-44e6443b190e496ab1beba712fd55a3e
+
+### 2022.06.24
+##### 업무에서 2D Animation Component에 관한 주제로 연구를 진행했던것을 정리함
+- https://oil-antique-690.notion.site/47-2D-Animation-Component-Super-UX-bc9b579968a5468e9d5972be7e984215
