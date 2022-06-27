@@ -29,3 +29,8 @@
 ### 2022.06.24
 ##### 업무에서 2D Animation Component에 관한 주제로 연구를 진행했던것을 정리함
 - https://oil-antique-690.notion.site/47-2D-Animation-Component-Super-UX-bc9b579968a5468e9d5972be7e984215
+
+### 2022.06.27
+##### 사용자 정의 컴포넌트 인수인계 자료 작성
+- 다른 연구원이 업무를 진행하기로 해서 인수인계 자료 작성 (구조와 동작설명까지)
+- https://oil-antique-690.notion.site/49-UX-Component-625d204e705c466f8a4cfe9a681f9c7d
