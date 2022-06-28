@@ -34,3 +34,8 @@
 ##### 사용자 정의 컴포넌트 인수인계 자료 작성
 - 다른 연구원이 업무를 진행하기로 해서 인수인계 자료 작성 (구조와 동작설명까지)
 - https://oil-antique-690.notion.site/49-UX-Component-625d204e705c466f8a4cfe9a681f9c7d
+
+### 2022.06.28
+##### 코딜리티 한문제 피보나치 최적화
+- https://www.notion.so/01-a5ce3a8011dd4f80aae701a9d21cd79b
+- https://app.codility.com/c/run/trainingBT8Q5R-ANG/
