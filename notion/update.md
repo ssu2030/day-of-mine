@@ -39,3 +39,8 @@
 ##### 코딜리티 한문제 피보나치 최적화
 - https://www.notion.so/01-a5ce3a8011dd4f80aae701a9d21cd79b
 - https://app.codility.com/c/run/trainingBT8Q5R-ANG/
+
+### 2022.06.29
+##### 드롭다운 이슈정리와 Formik 라이브러리
+- 드롭다운 이슈: https://oil-antique-690.notion.site/17-DropDownList-issue-ddd784732f114ddbaaf815e05709a9d0
+- formik 라이브러리: https://oil-antique-690.notion.site/18-Formik-Library-6051823da7b24af499c4bb3a33bb921a
